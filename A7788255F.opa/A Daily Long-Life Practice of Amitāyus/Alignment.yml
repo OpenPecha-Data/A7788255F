@@ -1,0 +1,22 @@
+segment_sources:
+  PF5FFC72B:
+    type: origin_type
+    relation: translation
+    language: en
+  P533EADA6:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9bb54f1a4f1d4e2cb22141849c63f1ce:
+    PF5FFC72B: 1bdb7ec4cd3142fa9a82cae9a6ee7cf8
+    P533EADA6: 68cd0dc6d0384a23b0cdc0cb22df21a9
+  da7d4cf2993d481ea8e6b6b68df9ac71:
+    PF5FFC72B: 77bff920fd44480a95f8a744eba1c3a9
+    P533EADA6: 3ad744953faf499a8f2fbb1bcc5576e3
+  8d2d072aecad4d5fb2aa5651a53f16f8:
+    PF5FFC72B: 7866c5b7c2314d7aa3efcfe95ba66c80
+    P533EADA6: 30baa24cf2bc41c68846adf1c7f8f9c9
+  f1436df978854404a832e8aa5adc7ac6:
+    PF5FFC72B: 5b6920e58a3f4d9fa6dc5d8e511c4fbe
+    P533EADA6: a617a6fd7f394d32a4f0f005bfdac101
